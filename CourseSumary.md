@@ -26,4 +26,11 @@
      + Don't need to use break as C
      + We can use bitwise OR operator in case statement.
    + Programming Tool/Concept of the Day: What surprisingly is Python:
-     + 
+     + Python is the interpreter.
+4. Day 4:
+   + ENG: iterate over the existing todos list.
+   + Tuple is immutable list, and use round parenthesis instead of bracket.
+5. Day5:
+   + enumerate function return index and item of the list
+   + f"{index}-{item}" : f-string 
+6. 
